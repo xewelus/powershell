@@ -65,4 +65,3 @@ function TestSortAsFileSystem
     $files
 }
 
-#TestSortAsFileSystem
